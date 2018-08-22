@@ -1,0 +1,10 @@
+{
+  "name": "markdown-it-twitter",
+  "version": "1.0.0",
+  "description": "Adds links for @username and #hashtag",
+  "main": "index.js",
+  "repository": "git@github.com:icco/markdown-it-twitter.git",
+  "author": "Nat Welch <nat@natwelch.com>",
+  "license": "MIT",
+  "private": false
+}
